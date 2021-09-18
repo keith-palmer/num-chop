@@ -1,2 +1,2 @@
 # num-chop
-Python function to preform n-digit chopping to value.
+Python function to preform i-digit chopping to value.
