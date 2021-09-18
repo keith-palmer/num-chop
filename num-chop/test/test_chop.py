@@ -10,4 +10,4 @@ def test_num_chop():
 
 if __name__ == '__main__':
     test_num_chop()
-    print('Tests have passed.')
+    print('Tests passed.')
